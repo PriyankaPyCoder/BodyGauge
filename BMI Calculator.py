@@ -1,4 +1,4 @@
-# Python-Based BMI Calculator for health assessment
+# BodyGauge:A Python-Based BMI Calculator for health assessment
 
 while True:
     try:
