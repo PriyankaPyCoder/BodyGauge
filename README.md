@@ -32,7 +32,7 @@ BodyGauge is a simple terminal-based Python application that calculates Body Mas
 1. Make sure Python is installed on your system
 2. Download or clone this repository
 3. Run the program using:
-   python bodygauge.py
+   python BodyGauge.py
 4. Enter your weight and height when prompted
 5. View your BMI result and health category
 
